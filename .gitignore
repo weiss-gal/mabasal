@@ -1,0 +1,6 @@
+state/
+logs/
+catalog.json
+catalog.zip
+__pycache__/
+*.pyc
